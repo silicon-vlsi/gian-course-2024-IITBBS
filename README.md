@@ -2,6 +2,14 @@
 
 This repository contains materials for the course: "Next-Generation Semiconductors: RISC-V, AI, and TL-Verilog", sponsored by [Global Initiative of Academic Networks (GIAN)](https://gian.iitkgp.ac.in/).
 
+## Recorded Videos
+- [Day1-I](https://www.youtube.com/live/r8yaM7IEL4U?si=fsHyR4tPXG_apcLy)
+- [Day1-II](https://www.youtube.com/live/8to2UlMC07A?si=_wlalLZWlx0VADho)
+- [Day2-I](https://www.youtube.com/live/Rl4u-mxcpAk?si=ZJGfigONWhgcCJjd)
+- [Day2-II](https://www.youtube.com/live/RexES3n2J_Q?si=YDBQrdzKvs2UXf7S)
+- [Day3-I](https://www.youtube.com/live/QaDRZRLZcLc?si=YoHgieMUfpc0Zoir)
+- [Day3-II](https://www.youtube.com/live/DeRhWiuUW34?si=eNW54Gz68FZsQoNd)
+  
 ## Course Materials
 
  - [Slides](https://docs.google.com/presentation/d/1unt9E73wd47VRWBN9G3i5raTyQk_lPVCQLc10xhI1dg/edit?usp=sharing)
