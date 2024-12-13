@@ -9,6 +9,8 @@ This repository contains materials for the course: "Next-Generation Semiconducto
 - [Day2-II](https://www.youtube.com/live/RexES3n2J_Q?si=YDBQrdzKvs2UXf7S)
 - [Day3-I](https://www.youtube.com/live/QaDRZRLZcLc?si=YoHgieMUfpc0Zoir)
 - [Day3-II](https://www.youtube.com/live/DeRhWiuUW34?si=eNW54Gz68FZsQoNd)
+- [Day4-I](https://www.youtube.com/live/ZbJ5BF6fVoI?si=4WuhcSh7T85t0449)
+- [Day4-II](https://www.youtube.com/live/pVkzBeDEV18?si=EFRckHpoJyInU9eQ)
   
 ## Course Materials
 
