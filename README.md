@@ -3,14 +3,18 @@
 This repository contains materials for the course: "Next-Generation Semiconductors: RISC-V, AI, and TL-Verilog", sponsored by [Global Initiative of Academic Networks (GIAN)](https://gian.iitkgp.ac.in/).
 
 ## Recorded Videos
-- [Day1-I](https://www.youtube.com/live/r8yaM7IEL4U?si=fsHyR4tPXG_apcLy)
-- [Day1-II](https://www.youtube.com/live/8to2UlMC07A?si=_wlalLZWlx0VADho)
-- [Day2-I](https://www.youtube.com/live/Rl4u-mxcpAk?si=ZJGfigONWhgcCJjd)
+- [Day1-I](https://www.youtube.com/live/r8yaM7IEL4U?si=fsHyR4tPXG_apcLy) (Mon 12/09/24)
+- [Day1-II](https://www.youtube.com/live/8to2UlMC07A?si=_wlalLZWlx0VADho) 
+- [Day2-I](https://www.youtube.com/live/Rl4u-mxcpAk?si=ZJGfigONWhgcCJjd) (Tue 12/10/24)
 - [Day2-II](https://www.youtube.com/live/RexES3n2J_Q?si=YDBQrdzKvs2UXf7S)
-- [Day3-I](https://www.youtube.com/live/QaDRZRLZcLc?si=YoHgieMUfpc0Zoir)
+- [Day3-I](https://www.youtube.com/live/QaDRZRLZcLc?si=YoHgieMUfpc0Zoir) (Wed 12/11/24)
 - [Day3-II](https://www.youtube.com/live/DeRhWiuUW34?si=eNW54Gz68FZsQoNd)
-- [Day4-I](https://www.youtube.com/live/ZbJ5BF6fVoI?si=4WuhcSh7T85t0449)
+- [Day4-I](https://www.youtube.com/live/ZbJ5BF6fVoI?si=4WuhcSh7T85t0449) (Thu 12/12/24)
 - [Day4-II](https://www.youtube.com/live/pVkzBeDEV18?si=EFRckHpoJyInU9eQ)
+- [Day5-I](https://www.youtube.com/live/MywhEZgnLsg?si=AHx48fuEW7Bo13Q_) (Fri 12/13/24)
+- [Day5-II](https://www.youtube.com/live/AEMGp49Fhjo?si=62MKqIIiFk8Z0zZ-)
+- [Day6-I](https://www.youtube.com/live/suMUdVeXASE?si=9MMizsaV3UMSRTgo) (Mon 12/16/24)
+- [Day6-II](https://www.youtube.com/live/smOwhddBHz8?si=doXwTTOjNlj3bVPO)
   
 ## Course Materials
 
