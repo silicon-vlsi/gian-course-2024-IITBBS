@@ -6,7 +6,8 @@ This repository contains materials for the course: "Next-Generation Semiconducto
 - [Day1-I](https://www.youtube.com/live/r8yaM7IEL4U?si=fsHyR4tPXG_apcLy) (Mon 12/09/24)
 - [Day1-II](https://www.youtube.com/live/8to2UlMC07A?si=_wlalLZWlx0VADho) 
 - [Day2-I](https://www.youtube.com/live/Rl4u-mxcpAk?si=ZJGfigONWhgcCJjd) (Tue 12/10/24)
-  - Lab2-Calc: Sequential Ckt, [Zero-Delay Model](https://youtu.be/Rl4u-mxcpAk?t=560), [Fibonacci](https://youtu.be/Rl4u-mxcpAk?t=891); [Lab:Counter](https://youtu.be/Rl4u-mxcpAk?t=1091); [Lab-Seq-Calc](https://youtu.be/Rl4u-mxcpAk?t=1807)-[Soln](https://youtu.be/Rl4u-mxcpAk?t=2970); 
+  - Lab2-Calc: Sequential Ckt, [Zero-Delay Model](https://youtu.be/Rl4u-mxcpAk?t=560), [Fibonacci](https://youtu.be/Rl4u-mxcpAk?t=891); [Lab:Counter](https://youtu.be/Rl4u-mxcpAk?t=1091); [Lab-Seq-Calc](https://youtu.be/Rl4u-mxcpAk?t=1807)-[Soln](https://youtu.be/Rl4u-mxcpAk?t=2970);
+  - [Intro2Pipeline-Pythagoras](https://youtu.be/Rl4u-mxcpAk?t=3461)
 - [Day2-II](https://www.youtube.com/live/RexES3n2J_Q?si=YDBQrdzKvs2UXf7S)
 - [Day3-I](https://www.youtube.com/live/QaDRZRLZcLc?si=YoHgieMUfpc0Zoir) (Wed 12/11/24)
 - [Day3-II](https://www.youtube.com/live/DeRhWiuUW34?si=eNW54Gz68FZsQoNd)
